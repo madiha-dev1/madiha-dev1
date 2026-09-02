@@ -3,7 +3,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Madiha+Noor+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;I+Build+Modern+%26+Responsive+Websites;Welcome+To+My+GitHub+%E2%9C%A8" />
 
-<img src="file:///C:/Users/madiha_dev/Downloads/ChatGPT%20Image%20Aug%2024,%202026,%2008_36_42%20PM.png"/>
+<img width="1254" height="1254" alt="ChatGPT Image Aug 24, 2026, 08_36_42 PM" src="https://github.com/user-attachments/assets/23f85e01-379c-4257-beb8-82a1163c37ac" />
 
 </div>
 
@@ -17,7 +17,9 @@
 
 🌱 Building modern & responsive websites
 
-⚛️ React.js Developer
+Full Stack Developer
+
+
 
 🚀 Passionate about learning & building
 
