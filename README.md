@@ -3,7 +3,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Madiha+Noor+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;I+Build+Modern+%26+Responsive+Websites;Welcome+To+My+GitHub+%E2%9C%A8" />
 
-<img width="1254" height="1254" alt="ChatGPT Image Aug 24, 2026, 08_36_42 PM" src="https://github.com/user-attachments/assets/23f85e01-379c-4257-beb8-82a1163c37ac" />
+<img width="600" height="500" alt="ChatGPT Image Aug 24, 2026, 08_36_42 PM" src="https://github.com/user-attachments/assets/23f85e01-379c-4257-beb8-82a1163c37ac" />
 
 </div>
 
@@ -76,8 +76,6 @@ A responsive library management project for managing books and records.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=madiha-dev1&show_icons=true&theme=radical&hide_border=true" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madiha-dev1&theme=radical&hide_border=true" />
@@ -89,8 +87,6 @@ A responsive library management project for managing books and records.
 <div align="center">
 
 ## 📈 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madiha-dev1&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
