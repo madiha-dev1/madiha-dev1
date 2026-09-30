@@ -3,7 +3,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Madiha+Noor+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;I+Build+Modern+%26+Responsive+Websites;Welcome+To+My+GitHub+%E2%9C%A8" />
 
-<img width="666" height="375" src="https://github.com/user-attachments/assets/c027fc1d-b132-4c47-acc7-f723f6c0f829" />
+<img width="666" height="375" src="https://lens.usercontent.google.com/image?vsrid=CK6N4rOSl__JPhABGAEiEHx2WELaoH9T0WCNpnvoyckyggEiAmVuKDpCdAoubGZlLWR1bW15OmY1MWQ2OWE2LWQ2ZWUtNDhkNi1iOWJjLWM0NTMzYTAzOGEyMxJCCkAvYm5zL3JhL2JvcmcvcmEvYm5zL2xlbnMtZnJvbnRlbmQtYXBpL3Byb2QubGVucy1mcm9udGVuZC1hcGkvMTQwWgQKAnJhOOnWx_OWl5cDSABQAGDmgdzqofnq4NUBeACAAQA" />
 
 </div>
 
