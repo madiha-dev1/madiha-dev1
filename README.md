@@ -24,14 +24,6 @@
 
 </div>
 
-### 📊 Contributions
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/8b5cf6/GITHUB_USERNAME" alt="contributions" width="90%"/>
-
-</div>
-
 ### 📬 Let's Connect
 
 <div align="center">
