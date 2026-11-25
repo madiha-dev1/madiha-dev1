@@ -24,22 +24,21 @@
 
 </div>
 
-### 📊 GitHub Activity
+### 📊 Contributions
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=8b5cf6)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=ec4899&label=PROFILE+VIEWS)
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/8b5cf6/YOUR_USERNAME" alt="contributions" width="90%"/>
+<img src="https://ghchart.rshah.org/8b5cf6/GITHUB_USERNAME" alt="contributions" width="90%"/>
 
 </div>
 
+### 📬 Let's Connect
+
+<div align="center">
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://madiha-noor.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madiha_dev)
+[![Email](https://img.shields.io/badge/Email-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madihadev785@gmail.com)
 
 </div>
 
